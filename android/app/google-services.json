@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001395695691",
+    "project_id": "zynex-ai-1398d",
+    "storage_bucket": "zynex-ai-1398d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001395695691:android:a4157866b4de9992a1ddce",
+        "android_client_info": {
+          "package_name": "com.example.zynex_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAffHjMTSwDuKSug-W1mQPfkcYy4n7yt4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
